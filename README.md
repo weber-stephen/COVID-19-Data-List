@@ -1,6 +1,14 @@
 # COVID-19-Data-List
 An Attempt At Collecting COVID-19 Related Data Sources and APIs.
 
+Contents
+- [COVID-19-Data-List](#covid-19-data-list)
+  - [Datasources and datasets](#datasources-and-datasets)
+  - [APIS](#apis)
+  - [Other Data](#other-data)
+  - [Tools](#tools)
+  - [Contributing](#contributing)
+
 ## Datasources and datasets
 COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 https://github.com/CSSEGISandData/COVID-19
@@ -161,5 +169,6 @@ Corona Data Scraper
 https://coronadatascraper.com/#home
 
 
-### Contributing
+---
+## Contributing
 Send a PR with your data source, API, other data or tool you think would help
